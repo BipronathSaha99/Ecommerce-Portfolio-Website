@@ -21,5 +21,5 @@ To deploy this project run
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT]([https://choosealicense.com/licenses/mit/](https://github.com/BipronathSaha99/Ecommerce-Portfolio-Website/blob/main/Lisence))
 
